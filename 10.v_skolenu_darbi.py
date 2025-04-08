@@ -9,6 +9,6 @@
 #4 Junkers Krišjānis
 
 #5 Lisovskis Ričards
-
+print(cos(radians(60)+fmod(15,2)))
 #6 Līberts Emīls
 
